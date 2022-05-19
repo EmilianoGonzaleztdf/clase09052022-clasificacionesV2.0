@@ -1,4 +1,4 @@
-let prom, nt1, nt2, nt3: number;
+let nt1, nt2, nt3: number;
 
 let nombre = prompt("ingrese el nombre de Alumno:");
 console.log("Alumno :" + nombre);
